@@ -1,6 +1,6 @@
 # Livro de Receitas :man_cook:
 
-## Olá, com intuito de aprender a manipular o Markdown, estou preparando este livro de receitas, seja bem vindo! ## :wave:
+## Olá, com intuito de aprender a manipular o Markdown, estou preparando este livro de receitas, seja bem vindo! :wave: ## 
 
 | Receitas - Doces                                   |  GitHub  |
 | :------------------------------------------------- | :------: |
