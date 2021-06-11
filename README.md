@@ -1,5 +1,13 @@
 # Livro de Receitas :man_cook:
 
-### Olá, bem vindo ao meu livro de receitas :wave:
+### ### Olá, com intuito de aprender a manipular o Markdown, estou preparando este livro de receitas, seja bem vindo!​ :wave:
 
-- Bolo de Chocolate
+| Receitas - Doces                                   |  GitHub  |
+| :------------------------------------------------- | :------: |
+| Bolo de chocolate                                  |   :ok:   |
+| Sorvete de frutas: Banana, morango, abacaxi, limão | :hammer: |
+
+| Receitas - Salgadas                   |  GitHub  |
+| ------------------------------------- | :------: |
+| Picanha na frigideira                 | :hammer: |
+| Strogonoff de Camarão, Frango e Carne | :hammer: |
