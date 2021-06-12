@@ -24,12 +24,12 @@
 
 ### Modo de Preparo - Massa
 
-1. **1.** Coloque os líquidos no liquidificador e bata até misturar bem.
-2. **2.** Coloque os outros ingredientes, sendo o fermento o último.
-3. **3.** Leve para assar em forno médio, numa forma untada e enfarinhada.
+**1.** Coloque os líquidos no liquidificador e bata até misturar bem.
+**2.** Coloque os outros ingredientes, sendo o fermento o último.
+**3.** Leve para assar em forno médio, numa forma untada e enfarinhada.
 
 ### Modo de Preparo - Cobertura
 
-1. **1.** Para a cobertura, misture numa panela a manteiga, o achocolatado, o açúcar e o leite.
-2. **2.** Leve ao fogo até derreter e a calda ficar homogênea.
-3. **3.** Cubra o bolo ainda quente, furadinho com garfo.
+**1.** Para a cobertura, misture numa panela a manteiga, o achocolatado, o açúcar e o leite.
+**2.** Leve ao fogo até derreter e a calda ficar homogênea.
+**3.** Cubra o bolo ainda quente, furadinho com o garfo.
